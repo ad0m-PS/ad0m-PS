@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Bo</h1>
+<h1 align="center">Hi 👋, I'm ad0m</h1>
 <h3 align="center">FullStack developer from Palestine .</h3>
 
 - 👨‍💻 All my creations are here [https://discord.gg/7xMnv6MQ4M](https://discord.gg/7xMnv6MQ4M)
 
-- 💬 My experiences : `lua, html, css, javascript, php, c#`
+- 💬 My experiences : `lua, html, css, javascript, c#`
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,lua,js,css,html,c#" />
+    <img src="https://skillicons.dev/icons?i=lua,js,css,html,c#" />
   </a>
 </p>
 
